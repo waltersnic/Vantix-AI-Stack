@@ -1,5 +1,3 @@
----
-
 ## **3. `neuroclash-game-design.md`**
 ```markdown
 # NeuroClash Game Design Document
